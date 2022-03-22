@@ -8,6 +8,10 @@
 
 ### LINKS:
 
+#### https://github.com/walkerkq/textmining_southpark
+
+#### https://github.com/BobAdamsEE/SouthParkData
+
 ***
 
 ### Project Los Angeles
